@@ -95,6 +95,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 20 April 2020. DOD. Cyber Criminals Don’t Brake for Pandemics. https://www.defense.gov/Explore/Inside-DOD/Blog/Article/2156128/cyber-criminals-dont-brake-for-pandemics/
 - 17 April 2020. Microsoft. TrickBot Covid Lures. https://twitter.com/MsftSecIntel/status/1251181180281450498
 - 17 April 2020. Reuters/Joseph Menn. Hacking against corporations surges as workers take computers home. https://www.reuters.com/article/us-health-coronavirus-cyber-corporations/hacking-against-corporations-surges-as-workers-take-computers-home-idUSKBN21Z0Y6
+- 17 April 2020. TrendMicro. Gamaredon APT Group Use Covid-19 Lure in Campaigns. https://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-use-covid-19-lure-in-campaigns/
 - 16 April 2020. MDR Cyber. Forecasting cyber threats after the COVID-19 pandemic https://www.mishcon.com/news/forecasting-cyber-threats-after-the-covid-19-pandemic
 - 15 April 2020/. The Economist. The inroads of organised crime in the era of covid-19 https://eiuperspectives.economist.com/healthcare/inroads-organised-crime-era-covid-19 
 - 15 April 2020. Deloitte. Global Cyber Executive Briefing. https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-cyber-covid-exec-briefing-14-April-20202.pdf
